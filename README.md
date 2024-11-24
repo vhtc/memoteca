@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Pre requisits
 
-To star this project, is necessaries install NODE and [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
+To star this project, is necessaries install node and [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
 ## Development server
 
