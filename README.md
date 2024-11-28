@@ -10,6 +10,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 To star this project, is necessaries install  NODE and [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
+## to install app.module.ts
+
+```bash
+ng new --no-standalone
+```
 ## Development server
 
 To start a local /memoteca development server, run:
