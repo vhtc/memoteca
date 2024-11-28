@@ -33,6 +33,10 @@ or
 ng g c component-name
 ```
 
+## How to insert ([ngModel]) in the Project Angular 17
+
+https://stackoverflow.com/questions/78267281/why-ngmodel-doesnt-works-on-the-last-version-of-angular-17
+
 ## Building
 
 To build the project run:
