@@ -7,7 +7,7 @@ import { ListarPensamentosComponent } from "./componentes/pensamentos/listar-pen
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, CabecalhoComponent, RodapeComponent, CriarPensamentoComponent, ListarPensamentosComponent],
+  imports: [RouterOutlet, CabecalhoComponent, RodapeComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
