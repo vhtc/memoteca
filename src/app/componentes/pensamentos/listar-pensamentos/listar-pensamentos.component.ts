@@ -5,7 +5,7 @@ import { NgFor, NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-listar-pensamentos',
-  imports: [RouterLink, RouterLinkActive, PensamentoComponent, NgFor, NgIf],
+  imports: [RouterLink, PensamentoComponent, NgFor, NgIf],//RouterLinkActive
   templateUrl: './listar-pensamentos.component.html',
   styleUrl: './listar-pensamentos.component.css'
 })
